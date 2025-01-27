@@ -1,0 +1,33 @@
+package com.mayuktha.products.entity;
+
+import java.time.LocalDateTime;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
+
+@Entity
+@Table(name="product")
+@Getter 
+@Setter 
+@ToString 
+public class Products {
+	
+	private int id;
+	private String name;
+	private String desc;
+	private String sku;
+	private int category_id;
+	private int inventory_id;
+	private float price;
+	private int discount_id;
+	created_at
+	modified_at
+	deleted_at
+
+
+}

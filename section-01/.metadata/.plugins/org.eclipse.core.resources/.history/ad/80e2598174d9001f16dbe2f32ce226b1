@@ -1,0 +1,21 @@
+package com.mayuktha.products.entity;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "product_sub_category")
+public class ProductSubCategory {
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int id;
+	@Column(name = "category_name")
+	private int productId;
+	@Column(name = "subcategory_id")
+	private int subcategoryId;
+	
+}

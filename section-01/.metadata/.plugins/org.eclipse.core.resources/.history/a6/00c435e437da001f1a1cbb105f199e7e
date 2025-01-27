@@ -1,0 +1,5 @@
+package com.mayuktha.orders.controller;
+
+public class OrdersController {
+
+}

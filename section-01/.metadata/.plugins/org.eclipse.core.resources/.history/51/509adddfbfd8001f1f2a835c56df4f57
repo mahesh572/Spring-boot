@@ -1,0 +1,5 @@
+package com.mayuktha.security.config;
+
+public class SecurityConfig {
+
+}

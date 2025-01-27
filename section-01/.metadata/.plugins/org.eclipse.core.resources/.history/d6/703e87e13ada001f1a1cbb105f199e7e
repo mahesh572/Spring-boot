@@ -1,0 +1,20 @@
+package com.mayuktha.orders.entity;
+
+import java.time.LocalDateTime;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "order_details")
+public class Orders {
+
+	private int id;
+	@Column(name = "user_id")
+	private int userId;
+	private int total;
+	private String status;
+	@Column(name = "created_at")
+	private LocalDateTime createdAt;
+}

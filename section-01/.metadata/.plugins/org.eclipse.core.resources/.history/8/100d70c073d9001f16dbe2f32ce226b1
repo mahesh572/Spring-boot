@@ -1,0 +1,14 @@
+package com.mayuktha.products.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "categories")
+public class Categories {
+	
+	private int id;
+	private int categoryname;
+	private String description;
+
+}

@@ -1,0 +1,6 @@
+package com.mayuktha.userregistration.exception;
+
+
+public class UserAlreadyExistedException extends RuntimeException{
+
+}

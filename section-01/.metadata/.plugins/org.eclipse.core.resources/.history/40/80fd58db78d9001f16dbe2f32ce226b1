@@ -1,0 +1,7 @@
+package com.mayuktha.products.dto;
+
+public class CategoriesDto {
+
+	private int id;
+	private String categoryName;
+}

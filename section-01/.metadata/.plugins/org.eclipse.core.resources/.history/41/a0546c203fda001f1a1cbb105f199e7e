@@ -1,0 +1,12 @@
+package com.mayuktha.mapper;
+
+public class MapperUtil {
+
+	
+	public static void mapToOrder() {
+		
+	}
+	public static void mapToOrderItems() {
+		
+	}
+}

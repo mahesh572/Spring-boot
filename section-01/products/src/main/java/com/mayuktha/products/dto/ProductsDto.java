@@ -1,0 +1,4 @@
+package com.mayuktha.products.dto;
+
+
+public record ProductsDto(String name,String description,String sku,float price,int categoryId,int subCategoryId) {}

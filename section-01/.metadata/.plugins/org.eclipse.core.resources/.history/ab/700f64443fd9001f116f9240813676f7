@@ -1,0 +1,5 @@
+package com.mayuktha.config.properties;
+
+public class UserContactInfoProperties {
+
+}

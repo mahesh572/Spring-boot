@@ -1,0 +1,14 @@
+package com.mayuktha.mapper;
+
+import com.mayuktha.products.dto.CategoriesDto;
+import com.mayuktha.products.entity.Categories;
+
+public class MapperUtil {
+
+	public static void mapToCategories(CategoriesDto categoriesDto,Categories categories) {
+		categories.setCategoryname(categoriesDto.categoryName());
+		categories.setDescription(null);
+		categories.setCreatedAt(null);
+	}
+	
+}

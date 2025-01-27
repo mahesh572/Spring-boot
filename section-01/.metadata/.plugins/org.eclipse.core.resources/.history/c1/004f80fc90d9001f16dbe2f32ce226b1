@@ -1,0 +1,30 @@
+package com.mayuktha.products.service;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.mayuktha.mapper.MapperUtil;
+import com.mayuktha.products.dto.ProductsDto;
+import com.mayuktha.products.entity.Products;
+import com.mayuktha.products.repository.ProductsJpaRepository;
+
+@Service
+public class ProductsServiceimpl implements IProductsService{
+
+	private static final Logger log = LoggerFactory.getLogger(ProductsServiceimpl.class);
+	
+	@Autowired
+	ProductsJpaRepository productsJpaRepository;
+	
+	
+	@Override
+	public Products saveProducts(ProductsDto productsDto) {
+		Products products = MapperUtil.mapToProduct(productsDto, new Products());
+		products=productsJpaRepository.save(products);
+		
+		
+		return products;
+	}
+}

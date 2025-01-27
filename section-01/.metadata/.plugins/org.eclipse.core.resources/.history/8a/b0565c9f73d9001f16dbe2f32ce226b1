@@ -1,0 +1,14 @@
+package com.mayuktha.products.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "sub_categories")
+public class SubCategories {
+
+	private int id;
+	private int subcategoryname;
+	private String description;
+	private int categoryId;
+}

@@ -1,0 +1,5 @@
+package com.mayuktha.products.service;
+
+public class CategoriesServiceImpl implements ICategoriesService{
+
+}

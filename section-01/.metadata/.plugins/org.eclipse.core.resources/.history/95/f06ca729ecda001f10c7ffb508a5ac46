@@ -1,0 +1,10 @@
+package com.mayuktha.orders.service;
+
+import org.springframework.stereotype.Service;
+
+import com.mayuktha.orders.dto.OrderDetailsDto;
+
+@Service
+public class OrdersServiceImpl {
+	void createOrder(OrderDetailsDto orderDetailsDto);
+}

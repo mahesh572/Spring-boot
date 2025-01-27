@@ -1,0 +1,30 @@
+package com.mayuktha.mapper;
+
+import java.time.LocalDateTime;
+
+import com.mayuktha.orders.dto.OrderDetailsDto;
+import com.mayuktha.orders.entity.Order;
+import com.mayuktha.orders.entity.OrderItems;
+
+public class MapperUtil {
+
+	
+	public static Order mapToOrder(OrderDetailsDto orderDetailsDto,Order order) {
+		
+		order.setStatus("CREATED");
+		order.setTotal(2);
+		order.setUserId(orderDetailsDto.getUserId());
+		order.setCreatedAt(LocalDateTime.now());
+		return order;
+	}
+	public static void mapToOrderItems(OrderDetailsDto orderDetailsDto) {
+		if(null!=orderDetailsDto.getOrderItems() && orderDetailsDto.getOrderItems().size()>0) {
+			OrderItems orderItems = new OrderItems();
+		}
+		
+		
+		//orderItems.setCreatedAt(LocalDateTime.now());
+		//orderItems
+		
+	}
+}

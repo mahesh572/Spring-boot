@@ -1,0 +1,29 @@
+package com.mayuktha.products.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.mayuktha.mapper.MapperUtil;
+import com.mayuktha.products.dto.CategoriesDto;
+import com.mayuktha.products.entity.Categories;
+import com.mayuktha.products.repository.CategoriesJparepository;
+
+@Service
+public class CategoriesServiceImpl implements ICategoriesService{
+
+	@Autowired
+	CategoriesJparepository categoriesJparepository;
+	
+	
+	@Override
+	public void savecategories(CategoriesDto categoriesDto) {
+		
+		Categories categories = MapperUtil.mapToCategories(categoriesDto, new Categories());
+		categories = categoriesJparepository.save(categories);
+	}
+	public void saveSubCategories() {
+		
+	}
+	
+	
+}

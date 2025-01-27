@@ -1,0 +1,18 @@
+package com.mayuktha.config.properties;
+
+import java.util.List;
+
+import org.springframework.boot.context.properties.ConfigurationProperties;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@ConfigurationProperties(prefix = "user")
+@Setter @Getter
+public class UserContactInfoProperties {
+	
+	private String message;
+	private List<String> onCallSupport;
+	
+
+}

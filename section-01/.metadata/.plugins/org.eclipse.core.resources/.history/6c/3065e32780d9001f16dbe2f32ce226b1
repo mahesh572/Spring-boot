@@ -1,0 +1,12 @@
+package com.mayuktha.products.service;
+
+import org.springframework.stereotype.Service;
+
+import com.mayuktha.products.dto.CategoriesDto;
+
+
+public interface ICategoriesService {
+	
+	void savecategories(CategoriesDto categoriesDto);
+
+}

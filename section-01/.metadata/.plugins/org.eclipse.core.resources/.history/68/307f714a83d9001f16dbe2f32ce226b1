@@ -1,0 +1,25 @@
+package com.mayuktha.mapper;
+
+import java.time.LocalDateTime;
+
+import com.mayuktha.products.dto.CategoriesDto;
+import com.mayuktha.products.dto.SubCategoriesDto;
+import com.mayuktha.products.entity.Categories;
+import com.mayuktha.products.entity.SubCategories;
+
+public class MapperUtil {
+
+	public static Categories mapToCategories(CategoriesDto categoriesDto,Categories categories) {
+		categories.setCategoryname(categoriesDto.categoryName());
+		categories.setDescription(categoriesDto.description());
+		categories.setCreatedAt(LocalDateTime.now());
+		return categories;
+	}
+	public static SubCategories mapToSubCategories(SubCategoriesDto subCategoriesDto,SubCategories subCategories) {
+		subCategories.setCategoryId(subCategoriesDto.category_id());
+		subCategories.setDescription(subCategoriesDto.description());
+		subCategories.setSubcategoryname(subCategoriesDto.sub_category_name());
+		subCategories.setCreatedAt(LocalDateTime.now());
+		return subCategories;
+	}
+}

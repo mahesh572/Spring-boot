@@ -1,0 +1,9 @@
+package com.mayuktha.products.response;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
+
+public record ApiResponse<T>(int statusCode,String status,String message,T data) {}

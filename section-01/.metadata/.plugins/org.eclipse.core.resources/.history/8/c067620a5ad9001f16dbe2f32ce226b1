@@ -1,0 +1,5 @@
+package com.mayuktha.products.repository;
+
+public class ProductsJpaRepository {
+
+}

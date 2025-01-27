@@ -1,0 +1,16 @@
+package com.mayuktha.mapper;
+
+import com.mayuktha.orders.dto.OrderDetailsDto;
+import com.mayuktha.orders.entity.Order;
+import com.mayuktha.orders.entity.OrderItems;
+
+public class MapperUtil {
+
+	
+	public static void mapToOrder(OrderDetailsDto orderDetailsDto,Order order) {
+		
+	}
+	public static void mapToOrderItems(OrderDetailsDto orderDetailsDto,OrderItems orderItems) {
+		
+	}
+}

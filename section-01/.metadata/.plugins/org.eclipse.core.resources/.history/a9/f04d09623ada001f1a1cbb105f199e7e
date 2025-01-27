@@ -1,0 +1,8 @@
+package com.mayuktha.orders.entity;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class Orders {
+
+}

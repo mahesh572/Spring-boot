@@ -1,0 +1,19 @@
+package com.mayuktha.orders.dto;
+
+import java.time.LocalDateTime;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
+
+@Data @NoArgsConstructor @AllArgsConstructor @ToString
+public class OrderDetailsDto {
+	
+	private int userId;
+	private int total;
+	private int status;
+	private LocalDateTime createdAt;
+	
+	private List<OrderItemsDto> orderItems;
+}

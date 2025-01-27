@@ -1,0 +1,11 @@
+package com.mayuktha.orders.service;
+
+import org.springframework.http.ResponseEntity;
+
+import com.mayuktha.orders.dto.OrderDetailsDto;
+
+public interface OrdersService {
+	
+	ResponseEntity<Object> createOrder(OrderDetailsDto orderDetailsDto);
+
+}

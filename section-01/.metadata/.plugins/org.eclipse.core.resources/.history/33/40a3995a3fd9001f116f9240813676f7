@@ -1,0 +1,10 @@
+package com.mayuktha.config.properties;
+
+import org.springframework.boot.context.properties.ConfigurationProperties;
+
+@ConfigurationProperties(prefix = "user")
+public class UserContactInfoProperties {
+	
+	
+
+}

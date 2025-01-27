@@ -1,0 +1,9 @@
+package com.mayuktha.products.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.mayuktha.products.entity.Products;
+
+public interface ProductsJpaRepository extends JpaRepository<Products, Integer>{
+
+}
