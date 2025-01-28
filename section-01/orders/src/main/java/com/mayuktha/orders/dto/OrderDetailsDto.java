@@ -13,9 +13,9 @@ public class OrderDetailsDto {
 	
 	private int userId;
 	private int total;
-	private int status;
+	private String status;
 	private LocalDateTime createdAt;
 	private int orderId;
 	
-	private List<OrderItemsDto> orderItems;
+	private List<ProductsDto> orderItems;
 }

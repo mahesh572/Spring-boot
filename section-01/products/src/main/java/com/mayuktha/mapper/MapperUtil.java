@@ -28,13 +28,18 @@ public class MapperUtil {
 	
 	public static Products mapToProduct(ProductsDto productsDto,Products products) {
 		
-		products.setName(productsDto.name());
-		products.setDescription(productsDto.description());
-		products.setPrice(productsDto.price());
-		products.setSku(productsDto.sku());
+		products.setName(productsDto.getName());
+		products.setDescription(productsDto.getDescription());
+		products.setPrice(productsDto.getPrice());
+		products.setSku(productsDto.getSku());
 		products.setCreatedAt(LocalDateTime.now());
 		return products;
 	}
 	
-	
+	public static ProductsDto mapToProductsDto(Products products,ProductsDto productsDto) {
+		productsDto.setName(products.getName());
+		productsDto.setPrice(products.getPrice());
+		productsDto.setDescription(products.getDescription());
+		return productsDto;
+	}
 }

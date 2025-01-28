@@ -1,5 +1,7 @@
 package com.mayuktha.products.service;
 
+import java.util.Optional;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,6 +12,7 @@ import com.mayuktha.products.dto.ProductsDto;
 import com.mayuktha.products.entity.ProductCategory;
 import com.mayuktha.products.entity.ProductSubCategory;
 import com.mayuktha.products.entity.Products;
+import com.mayuktha.products.exception.ResourceNotFoundException;
 import com.mayuktha.products.repository.ProductCategoryJpaRepository;
 import com.mayuktha.products.repository.ProductSubCategoriesJpaRepository;
 import com.mayuktha.products.repository.ProductsJpaRepository;
@@ -40,15 +43,24 @@ public class ProductsServiceimpl implements IProductsService{
 		
 		ProductCategory productCategory = new ProductCategory();
 		productCategory.setProductId(products.getId());
-		productCategory.setCategoryId(productsDto.categoryId());
+		productCategory.setCategoryId(productsDto.getCategoryId());
 		
 		productCategoryJpaRepository.save(productCategory);
 		
 		ProductSubCategory productSubCategory =new ProductSubCategory();
 		productSubCategory.setProductId(products.getId());
-		productSubCategory.setSubcategoryId(productsDto.subCategoryId());
+		productSubCategory.setSubcategoryId(productsDto.getSubCategoryId());
 		
 		productSubCategoriesJpaRepository.save(productSubCategory);
 		return products;
+	}
+
+
+	@Override
+	public ProductsDto fetchProducts(int productId) {
+		log.debug("ProductsServiceimpl:::fetchProducts::START::productId :::{}",productId);
+		Products product=productsJpaRepository.findById(productId).orElseThrow(()->new ResourceNotFoundException("products", "ProductId", String.valueOf(productId)));
+		ProductsDto productsDto =MapperUtil.mapToProductsDto(product, new ProductsDto());
+		return productsDto;
 	}
 }

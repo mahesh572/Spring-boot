@@ -3,6 +3,7 @@ package com.mayuktha.orders.controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.mayuktha.config.properties.UserContactInfoProperties;
 import com.mayuktha.orders.dto.OrderDetailsDto;
 import com.mayuktha.orders.entity.Order;
 import com.mayuktha.orders.service.OrdersService;
@@ -24,6 +25,9 @@ public class OrdersController {
 	@Autowired
 	OrdersService ordersService;
 	
+	@Autowired
+	UserContactInfoProperties userContactInfoProperties;
+	
 	@PostMapping
 	public ResponseEntity<Object> createOrder(@RequestBody OrderDetailsDto orderDetailsDto) {
 		ordersService.createOrder(orderDetailsDto);
@@ -31,9 +35,15 @@ public class OrdersController {
 	}
 	
 	@GetMapping("/{orderId}")
-	public Optional<Order> getOrder(@PathVariable int orderId) {
+	public OrderDetailsDto getOrder(@PathVariable int orderId) {
 		return ordersService.fetchOrder(orderId);
 	}
 	
+	@GetMapping(path = "contact")
+	public ResponseEntity<Object> contactInfo() {
+		// userContactInfoProperties
+		return ResponseEntity.ok().body(userContactInfoProperties);
+		
+	}
 
 }

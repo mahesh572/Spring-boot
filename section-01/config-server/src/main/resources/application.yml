@@ -1,0 +1,41 @@
+spring:
+  application:
+    name: "configserver"
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/mahesh572/Spring-config.git
+          default-label: main
+          timeout: 5
+          clone-on-start: true
+          force-pull: true
+          username: mahesh572
+          password: 
+      discovery:
+        enabled: true
+  profiles:
+    active:
+    - git
+  
+server:
+  port: 8888
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  health:
+    readinessstate:
+      enabled: true
+    livenessstate:
+      enabled: true
+  endpoint:
+    health:
+      probes:
+        enabled: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://${EUREKA_HOST_NAME:localhost}:8761/eureka  

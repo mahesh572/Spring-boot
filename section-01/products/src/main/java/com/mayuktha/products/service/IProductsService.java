@@ -6,5 +6,6 @@ import com.mayuktha.products.entity.Products;
 public interface IProductsService {
 	
 	Products saveProducts(ProductsDto productsDto);
+	ProductsDto fetchProducts(int productId);
 
 }

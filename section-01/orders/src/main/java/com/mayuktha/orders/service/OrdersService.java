@@ -9,6 +9,6 @@ import com.mayuktha.orders.entity.Order;
 public interface OrdersService {
 	
 	void createOrder(OrderDetailsDto orderDetailsDto);
-	public Optional<Order> fetchOrder(int orderId);
+	public OrderDetailsDto fetchOrder(int orderId);
 
 }

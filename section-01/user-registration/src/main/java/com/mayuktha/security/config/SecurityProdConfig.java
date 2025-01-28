@@ -22,9 +22,11 @@ public class SecurityProdConfig {
     	log.debug("SecurityConfig:::::prod::");
 		
 		
-		  http.authorizeHttpRequests((auth)->auth.anyRequest().authenticated());
-		  http.formLogin();
-		  
+    	http.authorizeHttpRequests((auth)->auth.anyRequest().permitAll());
+    	http.cors(cors->cors.disable());
+    	http.formLogin(form->form.disable());
+    	http.httpBasic(htba->htba.disable());
+    	http.csrf(csrf->csrf.disable());
 		 
 		return http.build();
 	}
