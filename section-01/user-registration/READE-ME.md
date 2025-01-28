@@ -12,7 +12,7 @@ Need to add "spring-cloud-starter-config" dependency in client module to pull th
 Dockerfile
 ----------------
 
-FROM keyword - which specifies that our application is java to run it requires JAVA env or JDK, so it tells to the docker using the FROM keyword.
+FROM :  Which specifies that our application is java to run it requires JAVA env or JDK, so it tells to the docker using the FROM keyword.
 
 MAINTAINER : is used for who is writing the image or updating the image- Author of the Image.
 
