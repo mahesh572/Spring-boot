@@ -10,8 +10,8 @@ spring:
           timeout: 5
           clone-on-start: true
           force-pull: true
-          username: mahesh572
-          password: Z2hwX2thTm03UkttMGprWEREYkpsTTFUSWJ2WWNqVTFQSjI3bUNnTg==
+#          username: mahesh572
+#          password: Z2hwX2thTm03UkttMGprWEREYkpsTTFUSWJ2WWNqVTFQSjI3bUNnTg==
       discovery:
         enabled: true
   profiles:

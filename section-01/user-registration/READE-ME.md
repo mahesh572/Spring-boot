@@ -51,7 +51,41 @@ EXPOSE : 8080 -  container port
 			
 ENTRYPOINT : it is used to be executed at the time of Container creation and can not be modified like CMD.
             * it is used to run the application like ENTRYPOINT ["java","-jar","app.jar"]
+            
+            
+docker :
+ 	 
+ 	 	* getting into Container - docker exec -it <container-id> /bin/bash
+ 	 	* to exit from the container - exit
 			
+Network  :
+
+		* Bridge
+		* Host
+		* None
+		
+		Default network is Bridge.
+		* Bridge - and it will assign IP address to the container
+		* Host - it will not assign IP address.
+		* None - no network is available.
+		
+	we can use other 2 networks.
+	
+	   * Overlay
+	   * MacVlan
+	   
+	   Overlay : is used for orchastration purpose - Docker swarm.
+	   MacVlan : it assigns the physical ip address to the container.
+	   
+	   
+	   docker network ls
+	   docker network create mahesh-net
+	   docker network rm mahesh-net
+	   docker network inspect mahesh-net
+	   
+	   docker run -d -p 8080:8080 --network mahesh-net 8357/config-server
+	   
+	   
 
   
        
