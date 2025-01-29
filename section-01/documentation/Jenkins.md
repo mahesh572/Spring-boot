@@ -6,5 +6,5 @@
  * In Build Steps, click Add build step → Execute Windows batch command.
  * Enter the following command to navigate to your local project directory 	and build it
 
-	 cd /d C:\path\to\your\project
- 	 mvn clean package
+	 ### cd /d C:\path\to\your\project
+ 	 ###  mvn clean package
