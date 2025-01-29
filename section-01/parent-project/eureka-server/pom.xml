@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mayuktha</groupId>
 	<artifactId>eureka-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>eureka-server</name>
 	<description>orders</description>
 	<url/>
@@ -55,6 +55,7 @@
 	</dependencyManagement>
 
 	<build>
+	<finalName>eureka-server</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

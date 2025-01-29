@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mayuktha</groupId>
 	<artifactId>products</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>products</name>
 	<description>Products registration</description>
 	<url/>
@@ -73,6 +73,7 @@
    </dependencyManagement>
 
 	<build>
+	<finalName>products</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>

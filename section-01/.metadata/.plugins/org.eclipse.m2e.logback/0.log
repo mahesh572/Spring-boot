@@ -7087,3 +7087,701 @@ org.eclipse.core.runtime.CoreException: Launch configuration ASTFrame references
 2025-01-29 14:40:20,832 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-01-29 14:40:20,832 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2025-01-29 14:40:20,832 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\orders\src\test\resources
+2025-01-29 14:43:45,821 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 14:43:45,824 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-29 14:43:45,824 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\products\src\test\resources
+2025-01-29 14:43:45,998 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 14:43:45,998 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:43:45,998 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server\src\test\resources
+2025-01-29 14:43:46,058 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-29 14:43:46,068 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:43:46,068 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\eureka-server\src\test\resources
+2025-01-29 14:43:46,125 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 14:43:46,125 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-29 14:43:46,130 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\orders\src\test\resources
+2025-01-29 14:43:46,195 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 14:43:46,199 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:43:46,201 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\src\test\resources
+2025-01-29 14:44:42,125 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:config-server:0.0.1-SNAPSHOT @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server\pom.xml.
+2025-01-29 14:44:42,822 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:44:42,823 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:44:42,826 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server\src\test\resources
+2025-01-29 14:44:53,789 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [364])
+2025-01-29 14:44:53,791 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2025-01-29 14:44:53,792 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2025-01-29 14:44:53,792 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2025-01-29 14:44:53,792 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2025-01-29 14:44:53,792 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2025-01-29 14:44:53,792 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2025-01-29 14:44:53,792 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2025-01-29 14:44:53,793 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2025-01-29 14:44:53,793 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2025-01-29 14:44:53,793 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2025-01-29 14:44:53,793 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2025-01-29 14:44:53,793 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2025-01-29 14:44:53,793 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2025-01-29 14:44:53,793 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2025-01-29 14:44:53,793 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2025-01-29 14:44:53,793 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2025-01-29 14:44:53,793 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2025-01-29 14:44:53,794 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-01-29 14:44:53,794 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2025-01-29 14:44:53,794 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2025-01-29 14:44:53,794 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2025-01-29 14:44:53,794 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2025-01-29 14:44:53,794 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2025-01-29 14:44:53,794 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2025-01-29 14:44:53,794 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-01-29 14:44:53,795 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2025-01-29 14:44:53,795 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2025-01-29 14:44:53,795 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2025-01-29 14:44:53,795 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2025-01-29 14:44:53,795 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-01-29 14:44:53,795 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-01-29 14:44:53,795 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2025-01-29 14:44:53,796 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2025-01-29 14:44:53,796 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2025-01-29 14:44:53,796 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2025-01-29 14:44:53,796 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2025-01-29 14:44:53,796 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2025-01-29 14:44:53,796 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2025-01-29 14:44:53,796 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2025-01-29 14:44:53,796 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2025-01-29 14:44:53,796 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2025-01-29 14:44:53,797 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2025-01-29 14:44:53,797 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2025-01-29 14:44:53,797 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2025-01-29 14:44:53,799 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.1.jre [29])
+2025-01-29 14:44:53,800 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\com.google.guava_33.3.1.jre.jar
+2025-01-29 14:44:53,800 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [615])
+2025-01-29 14:44:53,800 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\slf4j.api_2.0.16.jar
+2025-01-29 14:44:53,800 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [45])
+2025-01-29 14:44:53,800 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-01-29 14:44:53,800 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [41])
+2025-01-29 14:44:53,800 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\jakarta.annotation-api_1.3.5.jar
+2025-01-29 14:44:53,800 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2025-01-29 14:44:53,802 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.apache.commons.cli_1.9.0.jar
+2025-01-29 14:44:53,802 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-01-29 14:44:53,802 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-01-29 14:44:53,802 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2025-01-29 14:44:53,803 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-01-29 14:44:53,806 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server":
+2025-01-29 14:44:53,807 [Worker-50: Launching Executing clean in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2025-01-29 14:45:01,232 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 14:45:01,243 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:45:01,246 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server\src\test\resources
+2025-01-29 14:45:08,652 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2025-01-29 14:45:15,220 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [364])
+2025-01-29 14:45:15,221 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2025-01-29 14:45:15,221 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2025-01-29 14:45:15,221 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2025-01-29 14:45:15,221 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2025-01-29 14:45:15,221 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2025-01-29 14:45:15,222 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2025-01-29 14:45:15,222 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2025-01-29 14:45:15,222 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2025-01-29 14:45:15,222 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2025-01-29 14:45:15,222 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2025-01-29 14:45:15,222 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2025-01-29 14:45:15,222 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2025-01-29 14:45:15,222 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2025-01-29 14:45:15,222 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2025-01-29 14:45:15,223 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2025-01-29 14:45:15,223 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2025-01-29 14:45:15,223 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2025-01-29 14:45:15,223 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-01-29 14:45:15,223 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2025-01-29 14:45:15,223 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2025-01-29 14:45:15,223 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2025-01-29 14:45:15,223 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2025-01-29 14:45:15,223 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2025-01-29 14:45:15,224 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2025-01-29 14:45:15,224 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-01-29 14:45:15,224 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2025-01-29 14:45:15,224 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2025-01-29 14:45:15,224 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2025-01-29 14:45:15,224 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2025-01-29 14:45:15,224 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-01-29 14:45:15,224 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-01-29 14:45:15,224 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2025-01-29 14:45:15,224 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2025-01-29 14:45:15,225 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2025-01-29 14:45:15,225 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2025-01-29 14:45:15,225 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2025-01-29 14:45:15,225 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2025-01-29 14:45:15,225 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2025-01-29 14:45:15,225 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2025-01-29 14:45:15,225 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2025-01-29 14:45:15,225 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2025-01-29 14:45:15,225 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2025-01-29 14:45:15,226 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2025-01-29 14:45:15,226 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2025-01-29 14:45:15,226 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.1.jre [29])
+2025-01-29 14:45:15,226 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\com.google.guava_33.3.1.jre.jar
+2025-01-29 14:45:15,226 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [615])
+2025-01-29 14:45:15,226 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\slf4j.api_2.0.16.jar
+2025-01-29 14:45:15,226 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [45])
+2025-01-29 14:45:15,227 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-01-29 14:45:15,227 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [41])
+2025-01-29 14:45:15,227 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\jakarta.annotation-api_1.3.5.jar
+2025-01-29 14:45:15,227 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2025-01-29 14:45:15,227 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.apache.commons.cli_1.9.0.jar
+2025-01-29 14:45:15,227 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-01-29 14:45:15,227 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-01-29 14:45:15,227 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2025-01-29 14:45:15,228 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-01-29 14:45:15,229 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server":
+2025-01-29 14:45:15,229 [Worker-45: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_config-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2025-01-29 14:46:03,334 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:config-server:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server\pom.xml.
+2025-01-29 14:46:03,770 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:46:03,770 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:46:03,773 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server\src\test\resources
+2025-01-29 14:46:04,952 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 14:46:04,964 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:46:04,966 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server\src\test\resources
+2025-01-29 14:47:25,504 [Worker-52: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:eureka-server:0.0.1-SNAPSHOT @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\eureka-server\pom.xml.
+2025-01-29 14:47:26,221 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:47:26,221 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:47:26,225 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\eureka-server\src\test\resources
+2025-01-29 14:47:40,426 [Worker-52: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:eureka-server:0.0.1-SNAPSHOT @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\eureka-server\pom.xml.
+2025-01-29 14:47:41,127 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:47:41,127 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:47:41,130 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\eureka-server\src\test\resources
+2025-01-29 14:47:48,447 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:eureka-server:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\eureka-server\pom.xml.
+2025-01-29 14:47:48,883 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:47:48,883 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:47:48,887 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\eureka-server\src\test\resources
+2025-01-29 14:48:02,313 [Worker-52: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:orders:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\orders\pom.xml.
+2025-01-29 14:48:02,746 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:48:02,747 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:48:02,751 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\orders\src\test\resources
+2025-01-29 14:48:17,653 [Worker-50: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:orders:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\orders\pom.xml.
+2025-01-29 14:48:18,416 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:48:18,417 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:48:18,419 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\orders\src\test\resources
+2025-01-29 14:48:31,686 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:products:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\products\pom.xml.
+2025-01-29 14:48:32,077 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:48:32,078 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:48:32,081 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\products\src\test\resources
+2025-01-29 14:48:42,659 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:products:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\products\pom.xml.
+2025-01-29 14:48:43,283 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:48:43,284 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:48:43,287 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\products\src\test\resources
+2025-01-29 14:49:00,122 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:userregistration:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\pom.xml.
+2025-01-29 14:49:00,645 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:49:00,646 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:49:00,648 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\src\test\resources
+2025-01-29 14:49:10,944 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:userregistration:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\pom.xml.
+2025-01-29 14:49:11,649 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:49:11,649 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:49:11,652 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\src\test\resources
+2025-01-29 14:50:23,388 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [364])
+2025-01-29 14:50:23,389 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2025-01-29 14:50:23,389 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2025-01-29 14:50:23,389 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2025-01-29 14:50:23,390 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2025-01-29 14:50:23,390 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2025-01-29 14:50:23,390 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2025-01-29 14:50:23,390 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2025-01-29 14:50:23,390 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2025-01-29 14:50:23,391 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2025-01-29 14:50:23,391 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2025-01-29 14:50:23,391 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2025-01-29 14:50:23,391 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2025-01-29 14:50:23,391 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2025-01-29 14:50:23,391 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2025-01-29 14:50:23,392 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2025-01-29 14:50:23,392 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2025-01-29 14:50:23,392 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2025-01-29 14:50:23,392 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-01-29 14:50:23,392 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2025-01-29 14:50:23,392 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2025-01-29 14:50:23,392 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2025-01-29 14:50:23,393 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2025-01-29 14:50:23,393 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2025-01-29 14:50:23,393 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2025-01-29 14:50:23,393 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-01-29 14:50:23,393 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2025-01-29 14:50:23,393 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2025-01-29 14:50:23,393 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2025-01-29 14:50:23,393 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2025-01-29 14:50:23,393 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-01-29 14:50:23,394 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-01-29 14:50:23,394 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2025-01-29 14:50:23,394 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2025-01-29 14:50:23,394 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2025-01-29 14:50:23,394 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2025-01-29 14:50:23,394 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2025-01-29 14:50:23,394 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2025-01-29 14:50:23,394 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2025-01-29 14:50:23,394 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2025-01-29 14:50:23,394 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2025-01-29 14:50:23,395 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2025-01-29 14:50:23,395 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2025-01-29 14:50:23,395 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2025-01-29 14:50:23,395 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2025-01-29 14:50:23,395 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.1.jre [29])
+2025-01-29 14:50:23,395 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\com.google.guava_33.3.1.jre.jar
+2025-01-29 14:50:23,395 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [615])
+2025-01-29 14:50:23,395 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\slf4j.api_2.0.16.jar
+2025-01-29 14:50:23,396 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [45])
+2025-01-29 14:50:23,396 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-01-29 14:50:23,396 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [41])
+2025-01-29 14:50:23,396 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\jakarta.annotation-api_1.3.5.jar
+2025-01-29 14:50:23,396 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2025-01-29 14:50:23,396 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.apache.commons.cli_1.9.0.jar
+2025-01-29 14:50:23,396 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-01-29 14:50:23,396 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-01-29 14:50:23,396 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2025-01-29 14:50:23,397 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Mahesh\Spring-POC\sts-4.27.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-01-29 14:50:23,398 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration":
+2025-01-29 14:50:23,398 [Worker-48: Launching Executing install in C__Mahesh_Spring-POC_ecommerce-workspace_section-01_parent-project_user-registration] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2025-01-29 14:51:29,255 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:user-registration:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\pom.xml.
+2025-01-29 14:51:29,703 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:51:29,704 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:51:29,707 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\src\test\resources
+2025-01-29 14:51:46,927 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:51:46,928 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:51:46,929 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\src\test\resources
+2025-01-29 14:52:00,463 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:52:00,464 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:52:00,466 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\products\src\test\resources
+2025-01-29 14:52:14,141 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:52:14,142 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:52:14,143 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\products\src\test\resources
+2025-01-29 14:52:21,138 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:52:21,139 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:52:21,141 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\orders\src\test\resources
+2025-01-29 14:52:47,092 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:52:47,093 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:52:47,095 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\orders\src\test\resources
+2025-01-29 14:52:59,424 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:52:59,425 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:52:59,426 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\products\src\test\resources
+2025-01-29 14:53:09,356 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:53:09,357 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:53:09,359 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\products\src\test\resources
+2025-01-29 14:53:16,897 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:53:16,898 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:53:16,900 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\orders\src\test\resources
+2025-01-29 14:53:43,765 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:53:43,765 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:53:43,767 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\eureka-server\src\test\resources
+2025-01-29 14:53:47,180 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:53:47,181 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:53:47,182 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\eureka-server\src\test\resources
+2025-01-29 14:54:13,740 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:54:13,740 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 14:54:13,742 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server\src\test\resources
+2025-01-29 15:33:04,100 [Worker-60: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0-SNAPSHOT @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:33:04,191 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 15:33:04,202 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-29 15:33:04,205 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\products\src\test\resources
+2025-01-29 15:33:04,267 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 15:33:04,277 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 15:33:04,279 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\src\test\resources
+2025-01-29 15:33:05,403 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 15:33:05,406 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 15:33:05,408 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server\src\test\resources
+2025-01-29 15:33:05,450 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-29 15:33:05,463 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 15:33:05,465 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\eureka-server\src\test\resources
+2025-01-29 15:33:05,508 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 15:33:05,519 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-29 15:33:05,521 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\orders\src\test\resources
+2025-01-29 15:33:40,116 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0-SNAPSHOT @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:34:27,801 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0-SNAPSHOT @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:35:07,601 [Worker-56: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0-SNAPSHOT @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:36:03,069 [Worker-62: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:36:58,567 [Worker-56: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:37:04,163 [Worker-62: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:38:06,856 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Plugin not found in any plugin repository: org.apache.maven.plugins:null
+2025-01-29 15:38:06,860 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Plugin not found in any plugin repository: org.apache.maven.plugins:null
+2025-01-29 15:38:06,862 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Plugin not found in any plugin repository: org.apache.maven.plugins:null
+2025-01-29 15:38:06,863 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:38:30,638 [Worker-60: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/spotify/maven-metadata.xml
+2025-01-29 15:38:30,659 [Worker-60: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/spotify/maven-metadata.xml
+2025-01-29 15:38:30,661 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Plugin not found in any plugin repository: com.spotify:null
+2025-01-29 15:38:30,670 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Plugin not found in any plugin repository: com.spotify:null
+2025-01-29 15:38:30,672 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Plugin not found in any plugin repository: com.spotify:null
+2025-01-29 15:38:30,673 [Worker-60: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:39:20,153 [Worker-56: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:39:39,738 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:39:50,659 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:41:06,457 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.mayuktha:parent-project:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\pom.xml.
+2025-01-29 15:44:21,219 [Worker-63: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:141)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2301)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2025-01-29 15:44:22,813 [Worker-61: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:141)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2301)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2025-01-29 15:44:40,732 [Worker-61: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\pom.xml: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14)  @ line 33, column 14
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\pom.xml: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14)  @ line 33, column 14
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:140)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:943)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-29 15:44:41,498 [Worker-59: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:141)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2301)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2025-01-29 15:45:24,133 [Worker-59: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\pom.xml: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14)  @ line 33, column 14
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\pom.xml: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14)  @ line 33, column 14
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:140)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:943)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-29 15:45:24,370 [Worker-59: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:141)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2301)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2025-01-29 15:45:33,972 [Worker-61: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies/$%7Bspring-cloud.version%7D/spring-cloud-dependencies-$%7Bspring-cloud.version%7D.pom
+2025-01-29 15:45:34,174 [Worker-61: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/userregistration/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:917)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.lambda$1(MavenProjectCache.java:192)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.getProject(MavenProjectCache.java:191)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache.getMavenProject(MavenProjectCache.java:105)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$24(ProjectRegistryManager.java:1101)
+	at java.base/java.util.Map.computeIfAbsent(Map.java:1066)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1100)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:289)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:241)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-29 15:45:34,794 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:user-registration:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\pom.xml.
+2025-01-29 15:45:35,155 [Worker-59: Building] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:371)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:361)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:576)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:568)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:365)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:228)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:220)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:885)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:324)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration: C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration (Access is denied) @ 
+ for project  at C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:123)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:369)
+	... 35 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration: C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration (Access is denied) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:176)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:642)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:262)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:248)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	... 37 common frames omitted
+2025-01-29 15:46:11,740 [Worker-66: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:141)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2301)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2025-01-29 15:46:12,021 [Worker-63: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'properties' (position: START_TAG seen ...<url/>\n\t</scm>\n\t<properties>... @33:14) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:141)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2301)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2025-01-29 15:46:19,868 [Worker-64: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:user-registration:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\pom.xml.
+2025-01-29 15:46:20,792 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 15:46:20,808 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 15:46:20,813 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\src\test\resources
+2025-01-29 15:46:22,172 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 15:46:22,174 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 15:46:22,177 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\src\test\resources
+2025-01-29 15:47:08,345 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayuktha:user-registration:1.0.0 @ C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\pom.xml.
+2025-01-29 15:47:09,247 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 15:47:09,248 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 15:47:09,252 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\src\test\resources
+2025-01-29 16:22:08,200 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-29 16:22:08,237 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:22:08,241 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server\src\test\resources
+2025-01-29 16:23:04,629 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:23:04,630 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:23:04,632 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server\src\test\resources
+2025-01-29 16:23:18,579 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:23:18,579 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:23:18,583 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\config-server\src\test\resources
+2025-01-29 16:33:09,285 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:33:09,285 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:33:09,288 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\eureka-server\src\test\resources
+2025-01-29 16:33:15,136 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:33:15,138 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:33:15,142 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\eureka-server\src\test\resources
+2025-01-29 16:52:43,206 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:52:43,206 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:52:43,210 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\orders\src\test\resources
+2025-01-29 16:57:21,313 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:57:21,313 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 16:57:21,315 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\products\src\test\resources
+2025-01-29 17:02:15,797 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 17:02:15,798 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 17:02:15,800 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project\user-registration\src\test\resources

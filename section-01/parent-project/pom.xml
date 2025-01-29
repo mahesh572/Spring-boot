@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
     <groupId>com.mayuktha</groupId>
     <artifactId>parent-project</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -13,7 +13,10 @@
         <module>products</module>
         <module>user-registration</module>
     </modules>
-
+	<properties>
+		<docker.image.prefix>8357/my-app</docker.image.prefix>
+		<docker.image.name>${docker.image.prefix}:${project.version}</docker.image.name>
+	</properties>
     <dependencyManagement>
         <dependencies>
             <dependency>
@@ -31,6 +34,15 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+            <plugin>
+            <groupId>com.spotify</groupId>
+            <artifactId>docker-maven-plugin</artifactId>
+            <version>1.2.2</version>
+            <configuration>
+            	<imageName>${docker.image.name}</imageName>
+            	<dockerDirectory>docker</dockerDirectory>
+            </configuration>
             </plugin>
         </plugins>
     </build>

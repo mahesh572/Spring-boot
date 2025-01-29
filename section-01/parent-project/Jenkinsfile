@@ -1,0 +1,53 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('build java jar') {
+            steps {
+                echo 'building jar file......'
+                dir('C:\\Mahesh\\Spring-POC\\ecommerce-workspace\\section-01\\parent-project'){
+                    bat 'mvn clean package'
+                }
+            }
+        }
+        stage('docker image build....'){
+            steps {
+                echo 'creating docker images....'
+                script {
+                    def modules = ['config-server','eureka-server','orders','products','user-registration']
+                    for (mod in modules){
+                        def imageName = "8357/${mod}:S1"
+                        echo "Building Docker Image for ${mod}"
+                        bat """
+                            cd C:\\Mahesh\\Spring-POC\\ecommerce-workspace\\section-01\\parent-project\\${mod}
+                            docker build -t ${imageName} .
+                        """
+                    }
+                }
+            }
+        }
+        stage('Docker login...'){
+            steps {
+                script {
+                    withCredentials([usernamePassword(credentialsId: 'docker-hub', usernameVariable: 'DOCKER_USER', passwordVariable: 'DOCKER_PASS')]) {
+                        bat "docker login -u %DOCKER_USER% -p %DOCKER_PASS%"
+           
+                }
+            }
+        }
+		}
+         stage('Push Docker Images') {
+            steps {
+                script {
+                    def modules = ['config-server','eureka-server','orders','products','user-registration']
+                   
+                    for (mod in modules) {
+                        def imageName = "8357/${mod}:S1"
+                        echo "Pushing Docker Image ${imageName}"
+                        bat "docker push ${imageName}"
+                    }
+                }
+            }
+        }
+    }
+}

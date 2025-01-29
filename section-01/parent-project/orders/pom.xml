@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mayuktha</groupId>
 	<artifactId>orders</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>orders</name>
 	<description>orders</description>
 	<url/>
@@ -77,6 +77,7 @@
    </dependencyManagement>
 
 	<build>
+	<finalName>orders</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
