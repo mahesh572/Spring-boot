@@ -1,0 +1,43 @@
+pipeline {
+    agent any
+
+    environment {
+        MAVEN_HOME = "C:\\Mahesh\\Softwares\\apache-maven-3.9.9-bin\\apache-maven-3.9.9"  // Set Maven path
+        JAVA_HOME = "C:\\Program Files\\Java\\jdk-17"  // Set Java path
+        PATH = "${MAVEN_HOME}\\bin;${JAVA_HOME}\\bin;${env.PATH}"
+    }
+
+    stages {
+        stage('Checkout Code') {
+            steps {
+                script {
+                    echo 'Skipping Git clone since the project is local.'
+                }
+            }
+        }
+
+        stage('Build') {
+            steps {
+                script {
+                    echo 'Building Java project with Maven...'
+                    bat "mvn clean package"
+                }
+            }
+        }
+
+        stage('Archive JAR') {
+            steps {
+                archiveArtifacts artifacts: 'target/*.jar', fingerprint: true
+            }
+        }
+    }
+
+    post {
+        success {
+            echo 'Build completed successfully!'
+        }
+        failure {
+            echo 'Build failed! Check logs.'
+        }
+    }
+} 
