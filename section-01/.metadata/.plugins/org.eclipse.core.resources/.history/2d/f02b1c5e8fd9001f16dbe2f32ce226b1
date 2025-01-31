@@ -1,8 +1,0 @@
-package com.mayuktha.products.service;
-
-import org.springframework.stereotype.Service;
-
-@Service
-public class ProductsServiceimpl implements IProductsService{
-
-}

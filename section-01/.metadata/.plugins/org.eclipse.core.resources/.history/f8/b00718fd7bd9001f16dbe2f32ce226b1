@@ -1,8 +1,0 @@
-package com.mayuktha.products.exception;
-
-
-public class UserAlreadyExistedException extends RuntimeException{
-	public UserAlreadyExistedException(String message) {
-		super(message);
-	}
-}

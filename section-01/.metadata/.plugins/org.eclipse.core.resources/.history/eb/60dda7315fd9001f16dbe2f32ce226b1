@@ -1,1 +1,0 @@
-CREATE TABLE IF NOT EXISTS `product` ( `id` INT NOT NULL, `name` VARCHAR(255) NULL, `desc` TEXT NULL, `sku` VARCHAR(45) NULL, `category_id` INT NULL, `inventory_id` INT NULL, `price` DECIMAL NULL, `discount_id` INT NULL, `created_at` TIMESTAMP NULL, `modified_at` TIMESTAMP NULL, `deleted_at` TIMESTAMP NULL, PRIMARY KEY (id));

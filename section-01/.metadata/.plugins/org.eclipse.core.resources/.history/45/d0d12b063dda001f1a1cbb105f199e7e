@@ -1,5 +1,0 @@
-package com.mayuktha.orders.dto;
-
-public class OrderItemsDto {
-
-}

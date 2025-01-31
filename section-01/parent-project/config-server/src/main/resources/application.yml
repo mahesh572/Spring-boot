@@ -35,7 +35,4 @@ management:
     health:
       probes:
         enabled: true
-eureka:
-  client:
-    service-url:
-      defaultZone: http://${EUREKA_HOST_NAME:localhost}:8761/eureka  
+

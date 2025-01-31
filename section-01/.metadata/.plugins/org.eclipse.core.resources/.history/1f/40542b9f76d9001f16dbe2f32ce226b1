@@ -1,5 +1,0 @@
-package com.mayuktha.products.repository;
-
-public interface CategoriesJparepository {
-
-}

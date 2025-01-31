@@ -1,5 +1,0 @@
-package com.mayuktha.orders.service;
-
-public interface OrdersService {
-
-}

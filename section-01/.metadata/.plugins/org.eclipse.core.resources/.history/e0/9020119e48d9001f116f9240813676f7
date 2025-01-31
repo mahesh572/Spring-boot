@@ -1,9 +1,0 @@
-package com.mayuktha.products.entity;
-
-import jakarta.persistence.Entity;
-
-@Entity
-@Table()
-public class Products {
-
-}

@@ -1,9 +1,0 @@
-package com.mayuktha.orders.repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.mayuktha.orders.entity.Order;
-
-public interface OrderJpaRepository extends JpaRepository<Order, ID>{
-
-}

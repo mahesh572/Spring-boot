@@ -1,9 +1,0 @@
-package com.mayuktha.orders.repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.mayuktha.orders.entity.OrderItems;
-
-public interface OrderItemsJpaRepository extends JpaRepository<OrderItems, Integer>{
-
-}

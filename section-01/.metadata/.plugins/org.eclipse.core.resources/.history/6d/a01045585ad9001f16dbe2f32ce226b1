@@ -1,9 +1,0 @@
-package com.mayuktha.products.repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.mayuktha.products.entity.ProductCategory;
-
-public interface ProductCategoryJpaRepository extends JpaRepository<ProductCategory, Integer>{
-
-}

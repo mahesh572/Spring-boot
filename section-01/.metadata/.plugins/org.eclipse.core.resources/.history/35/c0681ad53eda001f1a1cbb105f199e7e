@@ -1,5 +1,0 @@
-package com.mayuktha.orders.repository;
-
-public interface OrderItemsJpaRepository {
-
-}

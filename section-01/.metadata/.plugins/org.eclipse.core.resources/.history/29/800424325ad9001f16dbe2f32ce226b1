@@ -1,7 +1,0 @@
-package com.mayuktha.products.repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-public interface ProductInventory extends JpaRepository<ProductInventory, Integer>{
-
-}

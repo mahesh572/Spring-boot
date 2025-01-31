@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\config-server"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -66,6 +67,10 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\parent-project"/>
+			<item value="C:\Mahesh\Spring-POC\ecommerce-workspace\section-01"/>
+			<item value="C:\Mahesh\Spring-POC"/>
+			<item value="C:\Mahesh\Spring-POC\ecommerce-workspace"/>
 			<item value="C:\Mahesh\Spring-POC\ecommerce-workspace\section-01\demo"/>
 		</list>
 		<list key="projectNameTemplate">
